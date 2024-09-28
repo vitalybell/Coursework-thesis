@@ -26,5 +26,8 @@ https://colab.research.google.com/drive/1GfCLbY19lVRnjJalVI27Q93hDvlJMmKu?usp=sh
 
 # Ссылка на код задачи регрессии PyTorch
 
+# дата сеты 
+https://github.com/vitalybell/Thesis-on-the-course-Python-developer-/tree/main/%D0%94%D0%B0%D1%82%D0%B0%20%D1%81%D0%B5%D1%82%D1%8B
+
 
 # Cравнение их производительности  и удобства использования.
