@@ -1,2 +1,2 @@
-# Thesis-on-machine-learning
-Comparison of different machine learning libraries: scikit-learn, TensorFlow and PyTorch: Implement classification and regression tasks using scikit-learn, TensorFlow and PyTorch, compare their performance and ease of use.
+# Дипломная работе по курсу "Python-разработчик"
+Сравнение различных библиотек для машинного обучения: scikit-learn, TensorFlow и PyTorch: Реализовать задачи классификации и регрессии с использованием scikit-learn, TensorFlow и PyTorch, сравнить их производительность и удобство использования.
