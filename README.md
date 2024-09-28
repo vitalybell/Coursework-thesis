@@ -10,7 +10,7 @@
 
 
 # Ссылка на код задачи квалификации scikit-learn
-
+https://colab.research.google.com/drive/1WAAmUEQdwvYtN9XiOR87853D5MYMjm-X?usp=sharing
 
 # Ссылка на код задачи квалификации TensorFlow
 
@@ -19,7 +19,7 @@
 
 
 # Ссылка на код задачи регрессии scikit-learn
-
+https://colab.research.google.com/drive/1GfCLbY19lVRnjJalVI27Q93hDvlJMmKu?usp=sharing
 
 # Ссылка на код задачи регрессии TensorFlow
 
