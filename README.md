@@ -29,8 +29,7 @@ https://colab.research.google.com/drive/1GfCLbY19lVRnjJalVI27Q93hDvlJMmKu?usp=sh
 https://colab.research.google.com/drive/1Du05STpPxpWBqEyHneC3ayp-AaC4aV46?usp=sharing
 
 # Ссылка на код задачи регрессии PyTorch
-
-
+https://colab.research.google.com/drive/1AQ1pbO9vU0PIT0bVnfWKI4LwQIVsOK_z?usp=sharing
 
 # Cравнение их производительности  и удобства использования.
 Scikit-learn против TensorFlow
