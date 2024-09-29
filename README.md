@@ -13,20 +13,27 @@
 https://github.com/vitalybell/Thesis-on-the-course-Python-developer-/tree/main/%D0%94%D0%B0%D1%82%D0%B0%20%D1%81%D0%B5%D1%82%D1%8B
 
 
+<img src='https://github.com/vitalybell/Thesis-on-the-course-Python-developer-/blob/main/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/scikit.jpg' alt = 'the unlimited'>
+
+
 # Ссылка на код задачи квалификации scikit-learn
 https://colab.research.google.com/drive/1WAAmUEQdwvYtN9XiOR87853D5MYMjm-X?usp=sharing
-
-# Ссылка на код задачи квалификации TensorFlow
-https://colab.research.google.com/drive/1dLJCB5_xF9gRoQt2j82l0NKcKn-yHRbw?usp=sharing
-
-# Ссылка на код задачи квалификации PyTorch
-https://colab.research.google.com/drive/1SQveZzjlgLeomMrCMOL7mtd4l_Lylwtl?usp=sharing
-
 # Ссылка на код задачи регрессии scikit-learn
 https://colab.research.google.com/drive/1GfCLbY19lVRnjJalVI27Q93hDvlJMmKu?usp=sharing
 
+<img src='https://github.com/vitalybell/Thesis-on-the-course-Python-developer-/blob/main/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/TesorFlow.jpg' alt = 'the unlimited'>
+
+
+# Ссылка на код задачи квалификации TensorFlow
+https://colab.research.google.com/drive/1dLJCB5_xF9gRoQt2j82l0NKcKn-yHRbw?usp=sharing
 # Ссылка на код задачи регрессии TensorFlow
 https://colab.research.google.com/drive/1Du05STpPxpWBqEyHneC3ayp-AaC4aV46?usp=sharing
+
+<img src='https://github.com/vitalybell/Thesis-on-the-course-Python-developer-/blob/main/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/PyTorch.jpg' alt = 'the unlimited'>
+
+
+# Ссылка на код задачи квалификации PyTorch
+https://colab.research.google.com/drive/1SQveZzjlgLeomMrCMOL7mtd4l_Lylwtl?usp=sharing
 
 # Ссылка на код задачи регрессии PyTorch
 https://colab.research.google.com/drive/1AQ1pbO9vU0PIT0bVnfWKI4LwQIVsOK_z?usp=sharing
