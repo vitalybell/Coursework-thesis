@@ -72,3 +72,4 @@ TensorFlow — это низкоуровневая библиотека глуб
  Заключение
 Сценарий выбора библиотеки зависит от задачи. Если вы ищете простоту и скорость, scikit-learn может быть лучшим выбором для традиционных методов. Если ваши задачи связаны с глубоким обучением, TensorFlow и PyTorch предпочтительнее, причём PyTorch может быть удобнее на этапе prototyping и исследований.
 
+<img src='https://github.com/vitalybell/Thesis-on-the-course-Python-developer-/blob/main/istockphoto-1937756687-612x612.jpg' alt = 'the unlimited'>
