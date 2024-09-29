@@ -20,7 +20,7 @@ https://colab.research.google.com/drive/1WAAmUEQdwvYtN9XiOR87853D5MYMjm-X?usp=sh
 https://colab.research.google.com/drive/1dLJCB5_xF9gRoQt2j82l0NKcKn-yHRbw?usp=sharing
 
 # Ссылка на код задачи квалификации PyTorch
-
+https://colab.research.google.com/drive/1SQveZzjlgLeomMrCMOL7mtd4l_Lylwtl?usp=sharing
 
 # Ссылка на код задачи регрессии scikit-learn
 https://colab.research.google.com/drive/1GfCLbY19lVRnjJalVI27Q93hDvlJMmKu?usp=sharing
